@@ -1,0 +1,42 @@
+{
+  "name": "bloc-builder-react",
+  "version": "1.0.1",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiltonribeiro/bloc-builder-react.git"
+  },
+  "peerDependencies": {
+    "react": "^16.8.6"
+  },
+  "keywords": [
+    "bloc",
+    "pattern",
+    "react"
+  ],
+  "author": "Wilton Neto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiltonribeiro/bloc-builder-react/issues"
+  },
+  "homepage": "https://github.com/wiltonribeiro/bloc-builder-react#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "webpack": "^4.31.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "webpack-cli": "^3.3.2"
+  }
+}
