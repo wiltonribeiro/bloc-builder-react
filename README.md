@@ -6,6 +6,10 @@ A React Component that renders itself based on the latest snapshot emitted by a 
 
 > npm install bloc-builder-react
 
+### Example of Usage
+There's a reposiory which is running this component with the BLoC Pattern applied. 
+If you want to check it out: [Bloc React Example Repository](https://github.com/wiltonribeiro/bloc-react-example) and [Bloc React Example Runnig](https://wiltonribeiro.github.io/bloc-react-example/) 
+
 ### React Component
 
 ```javascript
